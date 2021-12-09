@@ -129,6 +129,7 @@ a {
                 background-size: 35px;
                 background-repeat: no-repeat;
                 background-position: center;
+                background-color: rgba(5, 5, 5, 0.50);
                 line-height: 30px;
                 border-radius: 40px;
                 padding: 5px;
